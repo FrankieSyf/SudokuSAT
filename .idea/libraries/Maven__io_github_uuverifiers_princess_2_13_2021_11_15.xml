@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.uuverifiers:princess_2.13:2021-11-15">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/uuverifiers/princess_2.13/2021-11-15/princess_2.13-2021-11-15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/uuverifiers/princess_2.13/2021-11-15/princess_2.13-2021-11-15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/uuverifiers/princess_2.13/2021-11-15/princess_2.13-2021-11-15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

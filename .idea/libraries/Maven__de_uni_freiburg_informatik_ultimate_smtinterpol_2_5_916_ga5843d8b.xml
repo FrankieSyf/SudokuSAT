@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.uni-freiburg.informatik.ultimate:smtinterpol:2.5-916-ga5843d8b">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/uni-freiburg/informatik/ultimate/smtinterpol/2.5-916-ga5843d8b/smtinterpol-2.5-916-ga5843d8b.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/uni-freiburg/informatik/ultimate/smtinterpol/2.5-916-ga5843d8b/smtinterpol-2.5-916-ga5843d8b-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/uni-freiburg/informatik/ultimate/smtinterpol/2.5-916-ga5843d8b/smtinterpol-2.5-916-ga5843d8b-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

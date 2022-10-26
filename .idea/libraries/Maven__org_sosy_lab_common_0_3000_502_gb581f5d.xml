@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sosy-lab:common:0.3000-502-gb581f5d">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sosy-lab/common/0.3000-502-gb581f5d/common-0.3000-502-gb581f5d.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sosy-lab/common/0.3000-502-gb581f5d/common-0.3000-502-gb581f5d-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sosy-lab/common/0.3000-502-gb581f5d/common-0.3000-502-gb581f5d-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
